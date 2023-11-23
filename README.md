@@ -1,1 +1,2 @@
-#document du projet / read me
+#document du projet / read me // = header
+## description du projet 
